@@ -1,6 +1,6 @@
 # Посмотри в окно (望窗外)
 
-Ссылка на репозиторий: https://github.com/wangsusuis/posmotri-v-okno-ad
+Ссылка на репозиторий: https://github.com/wangsuisuis/posmotri-v-okno-ad.git
 
 Проектная работа по вёрстке для курса "Фронтенд-разработчик" в Яндекс Практикуме.
 
